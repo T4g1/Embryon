@@ -1,0 +1,53 @@
+Univers ?
+Donc, comme dit précédemment, pour ce qui est de l'environnement, je pensais partir sur quelque chose avec des tons ternes, et un style fort épuré
+A la mirror's edge, ou aeon flux si ca vous dit quelque chose
+C'est vraiment pour inspirer l'ordre, la discipline et la stabilité avec de la symétrie et tout et tout
+
+Deroulement du jeu:
+pour le deroulement du jeu on aura: Cinematique intro -> niveau 1 -> cinematique -> niveau 2 -> ... -> niveau 6 -> cinematique fin
+
+Niveau 1:
+Rencontre: Gardien du parc
+Mobs:
+
+Niveau 2:
+Rencontre: Horloger
+Mobs:
+
+Niveau 3:
+Rencontre: Biologiste
+Mobs:
+
+Niveau 4:
+Rencontre:
+Mobs:
+
+Niveau 5:
+Rencontre:
+Mobs:
+
+Niveau 6:
+Rencontre:
+Mobs:
+
+Gameplay:
+Armes prédéfinie
+Munitions, vie et armure au sol
+mobs peuvent en dropper
+(systéme fps classique)
+molette pour changer d'arme, on en debloque dans les niveaux
+
+
+X niveaux de verrous pour les portes dans les niveaux (genre doom)
+
+Sauvegardes:
+on débloque les niveaux puis il suffit de les choisir, score par niveau
+pas de sauvegardes, on retient quels niveaux sont debloqué
+
+Niveaux:
+T4g1: avec ghost on a definit qu'un niveau serait entierement plat
+on a aussi choisit de definir 2 types d'elements
+donc la structure du niveau qui serait une simple matrice 2d avec l'elemetn a mettre pour chaque case
+et une liste d'entité a placées a des positions absolues
+un element de structure serait composé de 3 elements de base
+genre on aurait 5 murs differents, 5 tableaux qu'on peut appliquer dessus et 5 conduites différentes qui peuvent etre dessus et l'element ce serait mur 1, tableau 2 conduite 4

@@ -1,0 +1,5 @@
+L'architecture contiendra une partie Modules et une partie Core.
+
+Chaque modules sera référencé dans le core.
+Les modules posséderont une file de message et pourront envoyer des messages
+aux autres modules par l'intermediaire du core

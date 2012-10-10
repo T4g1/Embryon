@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_module.html" title="Classe mére de tout les module du jeu." alt="" coords="44,96,108,123"/>
+<area shape="rect" id="node4" href="$class_logger.html" title="Permet d&#39;afficher des messages dans la console." alt="" coords="5,5,67,32"/>
+<area shape="rect" id="node6" href="$class_core.html" title="Gére les interactions entre les différents Module." alt="" coords="91,5,140,32"/>
+</map>

@@ -1,0 +1,22 @@
+PJ : Flic moyen aiguillé par le système, circulation, petites affaires, promotion surprise dans un test,
+Assigné à l'enquête des bracelets. --> enquête classique.
+
+1er Cas. Bracelet simple (Gun + torche + fonctionnalité basique)
+--> Gardien Parc Naturel. Animaux fous, affamés. Fin, tué, demande de renfort --> aucune réponse, bug.
+
+2e Cas. Gilet De défense.
+--> Horloger. + Piège et poursuite. Fin Capture, conduite en centre spécialisé --> Drogué.
+
+3e Cas. 
+--> Biologiste, station de naissance. Vue de l'acclimatation, Monstre hybride, Découverte de cadavres.
+Fin Tué, Refus de prendre les cachets.
+
+Envoi vers un centre de relais dans le froid. --> Combinaison foireuse.
+--> Arrêt du train, need aller jusqu'au générateur de secours --> combat + froid
+Mise en route, retour. Découverte des ids des victimes + la prochaine.
+
+4e Cas --> Retiré de l'affaire --> trouve le prochain par lui-même
+--> Machine --> Flic --> Fuite
+
+Epilogue
+Infiltration dans la tour, tour reliée au dôme. 

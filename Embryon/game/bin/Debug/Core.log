@@ -1,0 +1,13 @@
+(5) Core: Mode DEBUG active
+(6) Core: Initialisation du Core
+(9) Core: Enregistrement du module 'Game'
+(12) Core: Enregistrement du module 'Gui'
+(15) Core: Enregistrement du module 'Events'
+(42) Core: Enregistrement du module 'Rendering'
+(43) Core: Lancement du thread 'Rendering'
+(44) Core: Lancement du thread 'Events'
+(44) Core: Lancement du thread 'Game'
+(49) Core: Lancement du thread 'Gui'
+(60) Core: Attente de la fin des thread ...
+(32771) Core: Tout les thread sont termine
+(32772) Core: Fermeture de l'application

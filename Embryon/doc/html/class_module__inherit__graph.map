@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_events_engine.html" title="Gére les événements clavier, souris, log (Irrlicht) et GUI (Irrlicht)." alt="" coords="5,80,107,107"/>
+<area shape="rect" id="node5" href="$class_game_engine.html" title="Gére la dynamique du jeu." alt="" coords="131,80,228,107"/>
+<area shape="rect" id="node7" href="$class_g_u_i_engine.html" title="Gére la GUI dans son ensemble." alt="" coords="253,80,336,107"/>
+<area shape="rect" id="node9" href="$class_rendering_engine.html" title="Gére l&#39;affichage et les différents rendu via Irrlicht." alt="" coords="361,80,481,107"/>
+</map>

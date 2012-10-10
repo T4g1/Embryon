@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="src\Core\ConfigLoader.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="3210" topLine="0" />
+	</File>
+	<File name="src\Core\Core.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="6766" topLine="107" />
+	</File>
+	<File name="src\Core\Core.h" open="0" top="0" tabpos="6">
+		<Cursor position="1663" topLine="0" />
+	</File>
+	<File name="src\Entity\Entity.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="561" topLine="0" />
+	</File>
+	<File name="src\Entity\Entity.h" open="0" top="0" tabpos="0">
+		<Cursor position="1425" topLine="18" />
+	</File>
+	<File name="src\Entity\FuncButton.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="975" topLine="0" />
+	</File>
+	<File name="src\Entity\FuncButton.h" open="0" top="0" tabpos="0">
+		<Cursor position="580" topLine="0" />
+	</File>
+	<File name="src\Entity\FuncDoor.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1921" topLine="0" />
+	</File>
+	<File name="src\Entity\FuncDoor.h" open="0" top="0" tabpos="3">
+		<Cursor position="986" topLine="0" />
+	</File>
+	<File name="src\Entity\TargetKill.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="581" topLine="0" />
+	</File>
+	<File name="src\Entity\TargetKill.h" open="0" top="0" tabpos="0">
+		<Cursor position="329" topLine="0" />
+	</File>
+	<File name="src\Entity\TriggerMultiple.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1242" topLine="0" />
+	</File>
+	<File name="src\Entity\TriggerMultiple.h" open="0" top="0" tabpos="0">
+		<Cursor position="710" topLine="0" />
+	</File>
+	<File name="src\GUI\ChooseLevelMenu.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="318" topLine="0" />
+	</File>
+	<File name="src\GUI\ChooseLevelMenu.h" open="0" top="0" tabpos="0">
+		<Cursor position="344" topLine="0" />
+	</File>
+	<File name="src\GUI\GUIPage.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="699" topLine="0" />
+	</File>
+	<File name="src\GUI\GUIPage.h" open="0" top="0" tabpos="1">
+		<Cursor position="576" topLine="0" />
+	</File>
+	<File name="src\GUI\GameMenu.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="223" topLine="0" />
+	</File>
+	<File name="src\GUI\GameMenu.h" open="0" top="0" tabpos="0">
+		<Cursor position="242" topLine="0" />
+	</File>
+	<File name="src\GUI\MainMenu.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="219" topLine="0" />
+	</File>
+	<File name="src\GUI\MainMenu.h" open="0" top="0" tabpos="3">
+		<Cursor position="286" topLine="0" />
+	</File>
+	<File name="src\GUI\OptionMenu.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="269" topLine="0" />
+	</File>
+	<File name="src\GUI\OptionMenu.h" open="0" top="0" tabpos="0">
+		<Cursor position="234" topLine="0" />
+	</File>
+	<File name="src\GUI\PauseMenu.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="649" topLine="8" />
+	</File>
+	<File name="src\GUI\PauseMenu.h" open="0" top="0" tabpos="0">
+		<Cursor position="227" topLine="0" />
+	</File>
+	<File name="src\IGUIKeySelector.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="3985" topLine="0" />
+	</File>
+	<File name="src\Level.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="4037" topLine="8" />
+	</File>
+	<File name="src\Level.h" open="0" top="0" tabpos="4">
+		<Cursor position="1463" topLine="5" />
+	</File>
+	<File name="src\Modules\EventsEngine.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="3063" topLine="16" />
+	</File>
+	<File name="src\Modules\GUIEngine.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1097" topLine="0" />
+	</File>
+	<File name="src\Modules\GUIEngine.h" open="0" top="0" tabpos="0">
+		<Cursor position="660" topLine="0" />
+	</File>
+	<File name="src\Modules\GameEngine.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2972" topLine="67" />
+	</File>
+	<File name="src\Modules\GameEngine.h" open="0" top="0" tabpos="0">
+		<Cursor position="714" topLine="10" />
+	</File>
+	<File name="src\Modules\Module.h" open="0" top="0" tabpos="0">
+		<Cursor position="1583" topLine="20" />
+	</File>
+	<File name="src\Modules\RenderingEngine.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="3328" topLine="31" />
+	</File>
+	<File name="src\Modules\RenderingEngine.h" open="0" top="0" tabpos="9">
+		<Cursor position="1654" topLine="0" />
+	</File>
+	<File name="src\Player.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="935" topLine="10" />
+	</File>
+	<File name="src\Player.h" open="0" top="0" tabpos="0">
+		<Cursor position="698" topLine="0" />
+	</File>
+	<File name="src\common.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="607" topLine="0" />
+	</File>
+	<File name="src\common.h" open="0" top="0" tabpos="2">
+		<Cursor position="3704" topLine="0" />
+	</File>
+	<File name="src\main.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="1058" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

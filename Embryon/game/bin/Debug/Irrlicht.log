@@ -1,0 +1,13 @@
+(39) Irrlicht: Mode DEBUG active
+(56) Irrlicht: Irrlicht Engine version 1.8.0-alpha
+(57) Irrlicht: Microsoft Windows 7 Ultimate Edition  (Build 7600)
+(1048) Irrlicht: WGL_extensions: WGL_ARB_extensions_string WGL_ARB_pixel_format WGL_ATI_pixel_format_float WGL_ARB_pixel_format_float WGL_ARB_multisample WGL_EXT_swap_control WGL_EXT_swap_control_tear WGL_ARB_pbuffer WGL_ARB_render_texture WGL_ARB_make_current_read WGL_EXT_extensions_string WGL_ARB_buffer_region WGL_EXT_framebuffer_sRGB WGL_ATI_render_texture_rectangle WGL_EXT_pixel_format_packed_float WGL_I3D_genlock WGL_NV_swap_group WGL_ARB_create_context WGL_AMD_gpu_association WGL_AMDX_gpu_association WGL_ARB_create_context_profile WGL_NV_float_buffer
+(1061) Irrlicht: Pixel Format: 2
+(1138) Irrlicht: Using renderer: OpenGL 4.2.11318
+(1139) Irrlicht: ATI Radeon HD 5800 Series: ATI Technologies Inc.
+(1140) Irrlicht: OpenGL driver version is 1.2 or better.
+(1142) Irrlicht: Free texture memory (kB): 1000274
+(1143) Irrlicht: Free VBO memory (kB): 1000274
+(1144) Irrlicht: Free render buffer memory (kB): 1000274
+(1145) Irrlicht: GLSL version: 4.2
+(1180) Irrlicht: Could not load sprite bank because the file does not exist: #DefaultFont

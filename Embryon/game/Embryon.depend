@@ -1,0 +1,261 @@
+# depslib dependency file v1.0
+1335607797 source:c:\users\t4g1\projets\embryon\trunk\game\src\core\core.cpp
+	"Core.h"
+	<iostream>
+	<boost/bind.hpp>
+	<boost/thread.hpp>
+	"../Modules/Module.h"
+	"../GUI/ChooseLevelMenu.h"
+	"../GUI/GameMenu.h"
+	"../GUI/MainMenu.h"
+	"../GUI/OptionMenu.h"
+	"../GUI/PauseMenu.h"
+
+1335606045 c:\users\t4g1\projets\embryon\trunk\game\src\core\core.h
+	<iostream>
+	<map>
+	<boost/thread/mutex.hpp>
+	<irrlicht.h>
+	"ConfigLoader.h"
+	"../common.h"
+	"../Logger.h"
+	"../module_message.h"
+	"../Player.h"
+	"../Level.h"
+
+1335650210 c:\users\t4g1\projets\embryon\trunk\game\src\common.h
+	<boost/multi_array.hpp>
+	<string>
+	<irrlicht.h>
+
+1334253071 c:\users\t4g1\projets\embryon\trunk\game\src\logger.h
+	<iostream>
+	<string>
+	<fstream>
+	"common.h"
+
+1334757081 c:\users\t4g1\projets\embryon\trunk\game\src\modules\module.h
+	<map>
+	<queue>
+	<boost/thread.hpp>
+	<boost/thread/mutex.hpp>
+	"../common.h"
+	"../Logger.h"
+	"../module_message.h"
+
+1334331216 c:\users\t4g1\projets\embryon\trunk\game\src\module_message.h
+	<iostream>
+	<map>
+	"common.h"
+
+1334253291 source:c:\users\t4g1\projets\embryon\trunk\game\src\logger.cpp
+	"Logger.h"
+	<time.h>
+
+1334757229 source:c:\users\t4g1\projets\embryon\trunk\game\src\modules\module.cpp
+	"Module.h"
+	"../Core/Core.h"
+
+1335650394 source:c:\users\t4g1\projets\embryon\trunk\game\src\common.cpp
+	"common.h"
+	<string>
+	<vector>
+	<time.h>
+
+1334253553 source:c:\users\t4g1\projets\embryon\trunk\game\src\module_message.cpp
+	"module_message.h"
+
+1335651559 source:c:\users\t4g1\projets\embryon\trunk\game\src\modules\eventsengine.cpp
+	"EventsEngine.h"
+	<boost/thread.hpp>
+	<boost/date_time.hpp>
+	"../Core/Core.h"
+
+1335368523 c:\users\t4g1\projets\embryon\trunk\game\src\modules\eventsengine.h
+	<irrlicht.h>
+	<boost/thread/mutex.hpp>
+	"Module.h"
+
+1335645099 source:c:\users\t4g1\projets\embryon\trunk\game\src\modules\gameengine.cpp
+	"GameEngine.h"
+	<boost/thread.hpp>
+	<boost/date_time.hpp>
+	"../Core/Core.h"
+
+1335368293 c:\users\t4g1\projets\embryon\trunk\game\src\modules\gameengine.h
+	<boost/thread/mutex.hpp>
+	"Module.h"
+	"../Player.h"
+	"../Level.h"
+
+1335651761 source:c:\users\t4g1\projets\embryon\trunk\game\src\modules\renderingengine.cpp
+	"RenderingEngine.h"
+	<iostream>
+	<boost/thread.hpp>
+	<boost/date_time.hpp>
+	<boost/thread/mutex.hpp>
+	"../Core/Core.h"
+	"../Level.h"
+	"EventsEngine.h"
+	"../IGUIKeySelector.h"
+
+1335615744 c:\users\t4g1\projets\embryon\trunk\game\src\modules\renderingengine.h
+	<irrlicht.h>
+	<map>
+	"Module.h"
+
+1335561004 source:c:\users\t4g1\projets\embryon\trunk\game\src\main.cpp
+	<iostream>
+	"Core/Core.h"
+	"Modules/EventsEngine.h"
+	"Modules/GameEngine.h"
+	"Modules/GUIEngine.h"
+	"Modules/RenderingEngine.h"
+
+1335615613 source:c:\users\t4g1\projets\embryon\trunk\game\src\modules\guiengine.cpp
+	"GUIEngine.h"
+	"../Core/Core.h"
+
+1335606291 c:\users\t4g1\projets\embryon\trunk\game\src\modules\guiengine.h
+	<boost/thread/mutex.hpp>
+	"Module.h"
+	"../GUI/GUIPage.h"
+
+1334351515 source:c:\users\t4g1\projets\embryon\trunk\game\src\core\configloader.cpp
+	"ConfigLoader.h"
+	"irrlicht.h"
+	<iostream>
+	<string>
+	<map>
+	<fstream>
+
+1334249287 c:\users\t4g1\projets\embryon\trunk\game\src\core\configloader.h
+	<iostream>
+	<map>
+
+1334252918 source:c:\users\t4g1\projets\embryon\trunk\game\src\case.cpp
+	"Case.h"
+
+1334251454 c:\users\t4g1\projets\embryon\trunk\game\src\case.h
+	<vector>
+
+1335651010 c:\users\t4g1\projets\embryon\trunk\game\src\player.h
+	<boost/thread/mutex.hpp>
+	<list>
+	<irrlicht.h>
+
+1335644159 c:\users\t4g1\projets\embryon\trunk\game\src\level.h
+	<boost/thread/mutex.hpp>
+	<irrlicht.h>
+	<map>
+	<vector>
+	"Entity/FuncButton.h"
+	"Entity/FuncDoor.h"
+	"Entity/TargetKill.h"
+	"Entity/TriggerMultiple.h"
+
+1335651756 source:c:\users\t4g1\projets\embryon\trunk\game\src\player.cpp
+	"Player.h"
+	"common.h"
+
+1335651870 source:c:\users\t4g1\projets\embryon\trunk\game\src\level.cpp
+	"Level.h"
+
+1335540247 source:c:\users\t4g1\projets\embryon\trunk\game\src\iguikeyselector.cpp
+	"IGUIKeySelector.h"
+	<iostream>
+
+1334342120 c:\users\t4g1\projets\embryon\trunk\game\src\iguikeyselector.h
+	<irrlicht.h>
+	<string>
+	"common.h"
+
+1334788243 source:c:\users\t4g1\projets\embryon\trunk\game\src\weapon.cpp
+	"Weapon.h"
+
+1334500038 c:\users\t4g1\projets\embryon\trunk\game\src\weapon.h
+	<boost/thread/mutex.hpp>
+
+1335470371 source:c:\users\t4g1\projets\embryon\trunk\game\src\entity\entity.cpp
+	"Entity.h"
+	"../Core/Core.h"
+
+1335450421 c:\users\t4g1\projets\embryon\trunk\game\src\entity\entity.h
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<irrlicht.h>
+	"../common.h"
+
+1334775450 c:\users\t4g1\projets\embryon\trunk\game\src\entity\triggerentity.h
+	"Entity.h"
+
+1334776152 source:c:\users\t4g1\projets\embryon\trunk\game\src\entity\triggerentity.cpp
+	"TriggerEntity.h"
+
+1335450196 source:c:\users\t4g1\projets\embryon\trunk\game\src\entity\targetkill.cpp
+	"TargetKill.h"
+
+1335450052 c:\users\t4g1\projets\embryon\trunk\game\src\entity\targetkill.h
+	"Entity.h"
+
+1335450485 source:c:\users\t4g1\projets\embryon\trunk\game\src\entity\triggermultiple.cpp
+	"TriggerMultiple.h"
+
+1335450072 c:\users\t4g1\projets\embryon\trunk\game\src\entity\triggermultiple.h
+	"Entity.h"
+
+1335479265 c:\users\t4g1\projets\embryon\trunk\game\src\entity\funcdoor.h
+	"Entity.h"
+
+1335479176 source:c:\users\t4g1\projets\embryon\trunk\game\src\entity\funcdoor.cpp
+	"FuncDoor.h"
+
+1335450070 c:\users\t4g1\projets\embryon\trunk\game\src\entity\funcbutton.h
+	"Entity.h"
+
+1335450458 source:c:\users\t4g1\projets\embryon\trunk\game\src\entity\funcbutton.cpp
+	"FuncButton.h"
+
+1335602435 c:\users\t4g1\projets\embryon\trunk\game\src\gui\mainmenu.h
+	"GUIPage.h"
+
+1335621570 c:\users\t4g1\projets\embryon\trunk\game\src\gui\guipage.h
+	<irrlicht.h>
+	"../common.h"
+	"../Core/Core.h"
+
+1335622096 source:c:\users\t4g1\projets\embryon\trunk\game\src\gui\guipage.cpp
+	"GUIPage.h"
+
+1335621660 source:c:\users\t4g1\projets\embryon\trunk\game\src\gui\mainmenu.cpp
+	"MainMenu.h"
+
+1335602501 c:\users\t4g1\projets\embryon\trunk\game\src\gui\chooselevelmenu.h
+	"GUIPage.h"
+
+1335621641 source:c:\users\t4g1\projets\embryon\trunk\game\src\gui\chooselevelmenu.cpp
+	"ChooseLevelMenu.h"
+	<map>
+	"../Core/Core.h"
+
+1335621654 source:c:\users\t4g1\projets\embryon\trunk\game\src\gui\gamemenu.cpp
+	"GameMenu.h"
+
+1335607326 c:\users\t4g1\projets\embryon\trunk\game\src\gui\gamemenu.h
+	"GUIPage.h"
+
+1335621669 source:c:\users\t4g1\projets\embryon\trunk\game\src\gui\optionmenu.cpp
+	"OptionMenu.h"
+	"../IGUIKeySelector.h"
+
+1335607193 c:\users\t4g1\projets\embryon\trunk\game\src\gui\optionmenu.h
+	"GUIPage.h"
+
+1335621678 source:c:\users\t4g1\projets\embryon\trunk\game\src\gui\pausemenu.cpp
+	"PauseMenu.h"
+
+1335607258 c:\users\t4g1\projets\embryon\trunk\game\src\gui\pausemenu.h
+	"GUIPage.h"
+
